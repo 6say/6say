@@ -25,8 +25,3 @@
 ## 📌 À propos de moi
 - 🔭 J’étudie actuellement en Cheminement Universitaire en Technologie, profil Informatique à l’ÉTS Montréal.
 - 🌱 J’apprends actuellement le language Assembly
-
----
-
-## 🎯 Fun fact
-💡 [Fait amusant à propos de vous]
