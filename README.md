@@ -12,7 +12,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
----[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
+[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
+
+---
 
 ## 📈 GitHub Stats
 <p align="center">
