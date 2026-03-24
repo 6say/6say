@@ -4,7 +4,7 @@
 
 ---
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools I Use
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
