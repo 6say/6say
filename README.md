@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Ndiaga Cissé
+# 👋 Allo, je suis Ndiaga
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+Engineer;Lifelong+Learner;Open+Source+Lover&center=true&width=500&height=50)
 
 ---
 
-## 🔧 Technologies & Tools I Use
+## 🔧 Les outils que j'utilise
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
