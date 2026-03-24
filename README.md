@@ -16,14 +16,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6say&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6say&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📌 À propos de moi
 - 🔭 J’étudie actuellement en Cheminement Universitaire en Technologie, profil Informatique à l’ÉTS Montréal.
 - 🌱 J’apprends actuellement le language Assembly
