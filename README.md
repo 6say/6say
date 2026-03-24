@@ -1,7 +1,5 @@
 # 👋 Allo, je suis Ndiaga
 
----
-
 ## 🔧 Les outils que j'utilise
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
