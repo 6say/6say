@@ -1,7 +1,5 @@
 # 👋 Allo, je suis Ndiaga
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+Engineer;Lifelong+Learner;Open+Source+Lover&center=true&width=500&height=50)
-
 ---
 
 ## 🔧 Les outils que j'utilise
